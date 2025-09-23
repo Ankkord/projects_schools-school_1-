@@ -8,3 +8,6 @@ naryadi/
 dwg/
 other/
 primer/
+*.dwl
+*.dwl2
+!PDF/**.dwl2
