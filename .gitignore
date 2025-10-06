@@ -11,3 +11,4 @@ primer/
 *.dwl
 *.dwl2
 !PDF/**.dwl2
+*.rar
