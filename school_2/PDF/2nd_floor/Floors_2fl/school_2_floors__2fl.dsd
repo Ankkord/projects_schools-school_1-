@@ -1,0 +1,96 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1)1_вор_2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=1)Вор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2)2_вор_2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=1.1) Вор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3)6секц2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=3) 6 секция 3эт
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4)4_5секц2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=4) 5-4 секция 3эт
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5)3секц2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=5) 3 секция 3эт
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6)2секц2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=6) 2 секция 3эт
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7)1секц2э]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Layout=3.1-Пл-Э2-Ш2
+Setup=7) 1 секция 3эт
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\school_2_floors.dwfx
+OUT=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\
+PWD=
+[MRU Local]
+MRU=2
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=720
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
