@@ -1,0 +1,138 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:school_2_walls-2э-1]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=1СтенаВор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-0]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=1СтенаВор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-1]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=2СтенаВор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-2]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=3СтенаЛист1
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-3]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=4СтенаЛист2
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-4]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=5СтенаЛист3
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-3э-5]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=3э
+Setup=6СтенаЛист4
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-2э-2]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=2СтенаВор
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-2э-3]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=3СтенаЛист1
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-2э-4]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=4СтенаЛист2
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-2э-5]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=5СтенаЛист3
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls-2э-6]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Layout=2э
+Setup=6СтенаЛист4
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_2\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\Walls\school_2_walls.dwfx
+OUT=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\Walls\
+PWD=
+[MRU Local]
+MRU=9
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\ceilling\
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\Ceilling_lublino\SCB_lublino_potoloc\
+File2=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\Izolyaciya\
+File3=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\SCB\
+File4=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\walls\
+File5=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\3rd floor\floors\Стяжка\
+File6=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\plenka\
+File7=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\
+File8=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=720
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
