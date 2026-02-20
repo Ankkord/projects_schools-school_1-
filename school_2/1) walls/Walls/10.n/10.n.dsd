@@ -1,0 +1,103 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:10.n]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10.0]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10.1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10.2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10.3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10.4]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=10.n3с3э
+Setup=6 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\school_2_walls.dwfx
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\4.n\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\3.n\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\2.n\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\1.n\
+File9=C:\Users\Linux\Documents\schools\school_2\PDF\obogrev\
+File10=C:\Users\Linux\Documents\schools\school_2\5) obogrev\
+[MRU Sheet List]
+MRU=5
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\9.n.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\8.n.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\7.n.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\6.n.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\5.n.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

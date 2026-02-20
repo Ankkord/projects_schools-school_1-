@@ -1,0 +1,84 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Layout=3.1
+Setup=1 А4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Layout=3.1
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Layout=4.1
+Setup=1 А4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Layout=4.1
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\celling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\celling.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+File1=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\
+File2=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\4.n\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

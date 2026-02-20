@@ -1,0 +1,110 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:тип-2, 3, 4, 5, 5а, 6]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.1.1
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.2
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.2
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.2
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.4
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.4
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=1.4
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\wallsv2.pdf
+OUT=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+File1=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\
+File2=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\4.n\
+[MRU Sheet List]
+MRU=5
+File0=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\тип-2, 3, 4, 5, 5а, 6.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-резка и бетон - 14 листов.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-резка 7 листов.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-бетон 7 листов.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=600
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

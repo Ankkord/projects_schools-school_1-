@@ -1,0 +1,119 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:walls-1.2.1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.2.1
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.2.2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.2.1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.3.1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.3.1
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.3.2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.3.1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.4.1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.4.1
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.4.2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.4.1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.5.1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.5.1
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-1.5.2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Layout=1.5.1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\walls.dwfx
+OUT=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\4.n\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\3.n\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\2.n\
+[MRU Sheet List]
+MRU=7
+File0=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\diafragma.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\6.n.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\10.n.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\9.n.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\8.n.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\7.n.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\5.n.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

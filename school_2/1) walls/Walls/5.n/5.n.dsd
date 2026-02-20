@@ -1,0 +1,59 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:5.n]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Layout=5.n
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\school_2_walls.dwfx
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+PWD=
+[MRU Local]
+MRU=7
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\4.n\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\3.n\
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\2.n\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\1.n\
+File4=C:\Users\Linux\Documents\schools\school_2\PDF\obogrev\
+File5=C:\Users\Linux\Documents\schools\school_2\5) obogrev\
+File6=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

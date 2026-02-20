@@ -1,0 +1,101 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:KRONSTADTPIK-1-Пл]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Layout=1-Пл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:KRONSTADTPIK-2-Пл]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Layout=2-Пл
+Setup=1 вертикал А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:KRONSTADTPIK-2-Пл-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Layout=2-Пл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:KRONSTADTPIK-2-Пл-Копия(2)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Layout=2-Пл
+Setup=3 горизнот
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:KRONSTADTPIK-2-Пл-Копия(1)-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Layout=2-Пл
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\KRONSTADTPIK.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\KRONSTADTPIK.pdf
+OUT=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\
+File1=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+File2=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\
+File3=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+File4=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\9.n\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\8.nSportZal\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\7.n2эт1-2секция\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\6.n 3эт 1-2 секция\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.n\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.1-Ст\1.1-Ст-Н.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-резка и бетон демонтаж монтаж - 21 листов.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-резка и бетон - 14 листов.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\1-д.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\1-Шл-К.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\KRONSTADTPIK.dsd
+File6=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\тип-2, 3,.dsd
+File7=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\тип-2, 3, 4, 5, 5а, 6.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-резка 7 листов.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\naryadi\5) ММП\MMP-бетон 7 листов.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
