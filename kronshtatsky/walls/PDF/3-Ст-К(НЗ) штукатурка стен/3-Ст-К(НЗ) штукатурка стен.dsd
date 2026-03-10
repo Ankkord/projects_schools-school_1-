@@ -1,0 +1,84 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.1-Ст
+Setup=1 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.1-Ст
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.1-Ст
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.1-Ст
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.1-Ст
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\walls-k.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\
+PWD=
+[MRU Local]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\3-Ст-К(НЗ) штукатурка стен.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\1-д.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

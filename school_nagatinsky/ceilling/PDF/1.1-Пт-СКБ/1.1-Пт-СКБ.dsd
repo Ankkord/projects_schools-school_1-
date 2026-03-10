@@ -1,0 +1,86 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=1.1-Пт
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=1.1-Пт
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=1.1-Пт
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=1.1-Пт
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.1-Пт-СКБ\ceilling-n.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.1-Пт-СКБ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.1-Пт-СКБ\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.2-Ст перемычки\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.1-Ст\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.1-Ст, 1.2-Ст\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\2-Ст-К(НЗ)\
+File5=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\
+File6=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+File7=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\
+File8=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+File9=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\10.n\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.2-Ст перемычки\2.2-Ст-Перемычки.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.1-Ст\2.1-Ст.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

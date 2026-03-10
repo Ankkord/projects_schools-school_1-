@@ -1,0 +1,102 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=№2
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.2 1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.2
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.2 2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.2
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.4 1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.4(3.4.6.7.8)
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.4 2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.4(3.4.6.7.8)
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.5 1]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.5
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.5 2]
+DWG=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Layout=2.5
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\walls\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\hospital\walls\pdf\2) ГВЛ 1, 5 этаж\wallsv2.pdf
+OUT=C:\Users\Linux\Documents\schools\hospital\walls\pdf\2) ГВЛ 1, 5 этаж\
+PWD=
+[MRU Local]
+MRU=5
+File0=C:\Users\Linux\Documents\schools\hospital\walls\pdf\2) ГВЛ 1, 5 этаж\
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\3-ДФ\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4-Ст-К(НЗ) шпаклевка стен\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\
+File4=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\3-ДФ\3-ДФ.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3-Ст-К(НЗ) штукатурка стен\3-Ст-К(НЗ) штукатурка стен.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4-Ст-К(НЗ) шпаклевка стен\4-Ст-К(НЗ) шпаклевка стен.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
