@@ -1,0 +1,129 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт1
+Setup=7 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7.1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт2
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7.2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт2
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7.3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт2
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7.4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=3.1-Шт2
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\walls.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\floors\3.1-Пл (Наливной пол)\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.3-Фархверки\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.5-перемычки\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.4-Блок\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.3-Кирпич\
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\2.1-Пл-Л (Наливной пол)\
+File8=C:\Users\Linux\Documents\schools\hospital\walls\pdf\2) ГВЛ 1, 5 этаж\
+File9=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\3-ДФ\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4-Ст-К(НЗ) шпаклевка стен\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\floors\3.1-Пл (Наливной пол)\3.1-Пл-К наливной пол.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.1, 0.2, 1.2, 2.2,.dsd
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.5-перемычки\2.5-перемычки.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
