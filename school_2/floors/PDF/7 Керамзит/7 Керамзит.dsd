@@ -1,0 +1,78 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=7-Кмзт
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=7-Кмзт
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=7-Кмзт
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\school_2_floors.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\4.1 4.2 Изоляция\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\5.1 5.2 Наливной пол 2, 3 эт\
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\4-Защита винл плитки\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\
+File8=C:\Users\Linux\Documents\schools\school_1\walls\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+[MRU Sheet List]
+MRU=1
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\6.1 6.2 плитка КР-1 КР-2 2 и 3 эт.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

@@ -1,0 +1,81 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Layout=3-Кл-Кровл
+Setup=1 Вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Layout=3-Кл-Кровл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Layout=3-Кл-Кровл
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Перегородки.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\Перегородки.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\4.1 4.2 Изоляция\
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\5.1 5.2 Наливной пол 2, 3 эт\
+File6=C:\Users\Linux\Documents\schools\school_2\floors\PDF\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\floors\4-Защита винл плитки\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\
+File9=C:\Users\Linux\Documents\schools\school_1\walls\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\
+[MRU Sheet List]
+MRU=4
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\3.2 подоконики откосы сош2.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\откосы сош2.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\7 Керамзит.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\6.1 6.2 плитка КР-1 КР-2 2 и 3 эт.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

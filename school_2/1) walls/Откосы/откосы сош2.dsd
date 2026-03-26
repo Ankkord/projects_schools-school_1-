@@ -1,0 +1,99 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:school_2_walls_part2-3.1-Откосы]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=3.1-Откосы
+Setup=1 горизонт А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls_part2-3.1-Откосы-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=3.1-Откосы
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls_part2-3.1-Откосы-Копия(2)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=3.1-Откосы
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls_part2-3.1-Откосы-Копия(1)-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=3.1-Откосы
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:school_2_walls_part2-3.1-Откосы-Копия(1)-Копия(1)-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=3.1-Откосы
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\school_2_walls_part2.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\
+File2=C:\Users\Linux\Documents\schools\school_1\walls\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\floors\3.1-Пл (Наливной пол)\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.3-Фархверки\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.5-перемычки\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.4-Блок\
+[MRU Sheet List]
+MRU=8
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\перегородки-СОШ2.dsd
+File1=C:\Users\Linux\Documents\schools\school_1\walls\перегородки.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\5.1-Шпакевка РВР.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\1-Дм-Ст-К - (демонтаж).dsd
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\3.1-Штукатурка.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\3.1-Пл (Наливной пол)\3.1-Пл-К наливной пол.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.1, 0.2, 1.2, 2.2,.dsd
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.5-перемычки\2.5-перемычки.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

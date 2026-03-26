@@ -1,0 +1,98 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.1-Пл
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.1-Пл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.1-Пл
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.2-Пл
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.2-Пл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=6.2-Пл
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\school_2_floors.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\4.1 4.2 Изоляция\
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\5.1 5.2 Наливной пол 2, 3 эт\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\floors\4-Защита винл плитки\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\
+File7=C:\Users\Linux\Documents\schools\school_1\walls\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
