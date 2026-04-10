@@ -1,0 +1,136 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1.1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=3.2_плнк
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:1.2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=3.2_плнк
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=4.1_Изол
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=4.1_Изол
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=4.1_Изол
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=5.1-СКБ
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=5.1-СКБ
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=5.1-СКБ
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=6.1_Нал.пол
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=6.1_Нал.пол
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Layout=6.1_Нал.пол
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\floors_lublino_part_3.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\floors\5.2 Л-1 Линолеум\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Ст-К\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\CF1\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\1.1-CКБ_CF2\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Перегородки\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.1 Плитка\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\3.1-Штукатурка.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.1-Штукатурка\3.1-Швы.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\staircase_stairwy_stairs.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

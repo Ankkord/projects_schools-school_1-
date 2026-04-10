@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:walls-k-1.5-Ст-FK9]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=1.5-Ст-FK9
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:walls-k-1.5-Ст-FK9-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=1.5-Ст-FK9
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Ст-К\walls-k.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Ст-К\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Ст-К\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\CF1\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\1.1-CКБ_CF2\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Перегородки\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.1 Плитка\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Откосы\
+File8=C:\Users\Linux\Documents\schools\school_2\floors\PDF\7 Керамзит\
+File9=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\
+File10=C:\Users\Linux\Documents\schools\school_2\floors\PDF\4.1 4.2 Изоляция\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\CF1\CF1_ALL.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\1.1-CКБ_CF2\CF2_ALL.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\1.1-CКБ_CF2\1.1-CКБ_CF2.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Перегородки\4.1-кладка блок.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Перегородки\3.1-кладка ПГП.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Walls\5.1 Плитка\5.1-Плитка в санузлах.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\Кровля\Кровля + НЗ №102.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\2-Дм-Ст-К - (уборка мусора).dsd
+File8=C:\Users\Linux\Documents\schools\school_2\floors\PDF\4.1 4.2 Изоляция\4.1 4.2 изоляция.dsd
+File9=C:\Users\Linux\Documents\schools\school_2\floors\PDF\6.1 6.2 Плитка\6.1 6.2 плитка КР-1 КР-2 2 и 3 эт.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
