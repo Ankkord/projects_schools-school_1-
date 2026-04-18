@@ -1,0 +1,77 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Layout=3.1Ўп‘ин
+Setup=1 вертикаль ј4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Layout=3.1Ўп‘ин
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Layout=3.1Ўп‘ин
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Layout=3.1Ўп‘ин
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Ўпаклевка финишна€\steni 2025.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Ўпаклевка финишна€\
+PWD=
+[MRU Local]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Ўпаклевка финишна€\
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\8.1-оргалит.dsd
+File1=C:\Users\Linux\Documents\schools\school_1\walls\перегородки.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ѕрофиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
