@@ -1,0 +1,87 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=1.8лес
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=1.8лес
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=1.8лес
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\1.8 Строительные леса.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.7-ГКЛ Кнауф\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.5-Штук блок 5 спорт залы ЧСТ-2.1\
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.1-П9\
+File4=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.3-П8\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.3-Ст-К Ремонт Штукатурка\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.2-Штук 3 вып\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.7-Кирпич 3 вып\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.6-Блок 3 вып\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.7-фархверки 3 вып\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.6-перемычки 3 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.5-Штук блок 5 спорт залы ЧСТ-2.1\2.5-ШтЧСТ2.1 Спорт Залы Блок 5 АРОР.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.7-ГКЛ Кнауф\1.7-ГКЛ Кнауф.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.3-П8\6.3-П8.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.1-П9\6.2-П7 П10.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.3-Ст-К Ремонт Штукатурка\3.3-Ст-К Ремонт Штукатурка.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.7-Кирпич 3 вып\1.7-Кирпич 3 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.2-Штук 3 вып\3.2.1-Швы 3 вып..dsd
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.2-Штук 3 вып\3.2-Штук 3 вып.dsd
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.6-Блок 3 вып\1.6-Блок 3 вып.dsd
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.6-перемычки 3 вып\2.6-Перемычки 3 выполнение.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=600
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

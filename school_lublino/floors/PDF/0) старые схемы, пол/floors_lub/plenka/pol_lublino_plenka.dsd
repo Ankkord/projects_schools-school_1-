@@ -1,0 +1,79 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Пленка1]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Layout=Пленка
+Setup=1стр
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Пленка2]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Layout=Пленка
+Setup=2стр
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Пленка3]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Layout=Пленка
+Setup=3стр
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Пленка4]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Layout=Пленка
+Setup=4стр
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\pol_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\plenka\pol_lublino.dwfx
+OUT=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\plenka\
+PWD=
+[MRU Local]
+MRU=3
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\SCB\
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\
+File2=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\SCB\scb_floor_lublino.dsd
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\school_2_floors.dsd
+File2=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\school_2_floors__2fl.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=720
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

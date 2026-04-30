@@ -1,0 +1,111 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:стены123эт]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=1.0
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт2]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=1.1
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт3]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=2
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт4]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=3
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт5]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=4
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт6]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=5
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт7]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=6
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:стены123эт8]
+DWG=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Layout=Шт 1э.
+Setup=7
+OriginalSheetPath=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\steni 2025.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=2
+DWF=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\walls\steni 2025.dwfx
+OUT=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\walls\
+PWD=
+[MRU Local]
+MRU=5
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\SCB\
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\3rd floor\floors\Стяжка\
+File2=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\plenka\
+File3=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\
+File4=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\
+[MRU Sheet List]
+MRU=5
+File0=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\SCB\scb_floor_lublino.dsd
+File1=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\3rd floor\floors\Стяжка\pol_scb_lublino_3floor.dsd
+File2=C:\Users\МирзаяновИИ\Documents\projects\school_lublino\PDF\floors_lub\plenka\pol_lublino_plenka.dsd
+File3=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\3rd_floor\Floors\school_2_floors.dsd
+File4=C:\Users\МирзаяновИИ\Documents\projects\school_2\PDF\2nd_floor\Floors_2fl\school_2_floors__2fl.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=720
+RasterResolution=720
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

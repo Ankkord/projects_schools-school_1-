@@ -1,0 +1,100 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:floor-k-1.1КР1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1.1КР1
+Setup=1 вертикал А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-1.1КР1-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1.1КР1
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-1.1КР1-Копия(1)-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1.1КР1
+Setup=3 горизнот
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-1.1КР1-Копия(2)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1.1КР1
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-2.1КР3-4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=2.1КР3-4
+Setup=1 вертикал А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-2.1КР3-4-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=2.1КР3-4
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:floor-k-2.1КР3-4-Копия(1)-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=2.1КР3-4
+Setup=3 горизнот
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Оранж строчки\floor-k.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Оранж строчки\
+PWD=
+[MRU Local]
+MRU=5
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Оранж строчки\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\орнаж полоски\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка финишная\
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\
+[MRU Sheet List]
+MRU=1
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\орнаж полоски\ceilling-k.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

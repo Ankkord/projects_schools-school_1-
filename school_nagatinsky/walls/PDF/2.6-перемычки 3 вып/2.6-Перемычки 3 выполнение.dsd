@@ -1,0 +1,88 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=2.6-Пер 3 вып
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=2.6-Пер 3 вып
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=2.6-Пер 3 вып
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=2.6-Пер 3 вып
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=2.6-Пер 3 вып
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.6-перемычки 3 вып\walls.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.6-перемычки 3 вып\
+PWD=
+[MRU Local]
+MRU=6
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.6-перемычки 3 вып\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Оранж строчки\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\орнаж полоски\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка финишная\
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\орнаж полоски\ceilling-k.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\6) Оранж полоски\floor-k.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

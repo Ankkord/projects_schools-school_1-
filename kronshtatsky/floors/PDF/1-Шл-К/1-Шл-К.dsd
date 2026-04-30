@@ -1,0 +1,89 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1-Шл
+Setup=1 вертикал А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1-Шл
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1-Шл
+Setup=3 горизнот
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=1-Шл
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\diafragma.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.1-Пт-Окраска\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.1-Пт-СКБ\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.2-Ст перемычки\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.1-Ст\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.1-Ст, 1.2-Ст\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\2-Ст-К(НЗ)\
+File7=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ тип 2, 3\
+File8=C:\Users\Linux\Documents\schools\school_2\PDF\ceilling\
+File9=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\тип-2, 3, 4, 5, 5а, 6\
+File10=C:\Users\Linux\Documents\schools\hospital\walls\pdf\1.n) ГВЛ\
+[MRU Sheet List]
+MRU=5
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\floors\1-Шл-К\1-Шл-К.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.1-Пт-Окраска\2.1-Пт-Окраска.dsd
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.1-Пт-СКБ\1.1-Пт-СКБ.dsd
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.2-Ст перемычки\2.2-Ст-Перемычки.dsd
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\2.1-Ст\2.1-Ст.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
