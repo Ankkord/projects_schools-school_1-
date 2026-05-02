@@ -1,0 +1,108 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=2.4Крс3.1в
+Setup=6 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\2.4-Краска 3.1 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.5 Шпакл 3.1 вып\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.4-Штук 3.1 вып\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.3-Штук подвал 3.1 вып\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.10 Кирпич Кровля 3.1 вып\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.2-Шпаклевка финишная\
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.6-ЧСТ3 штук 4.1 1\
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\
+File8=C:\Users\Linux\Documents\schools\school_lublino\naryadi\4) откосы\2-От\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.7-ГКЛ Кнауф\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.5-Штук блок 5 спорт залы ЧСТ-2.1\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.5 Шпакл 3.1 вып\1.5-Шпаклевка 3.1 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.4-Штук 3.1 вып\0.4-Штукактурка 3.1 вып.dsd
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.3-Штук подвал 3.1 вып\3.3 Штукатурка подвал 3.1в.dsd
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.10 Кирпич Кровля 3.1 вып\1.10 Кирпич Кровля 3.1 вып.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.2-Шпаклевка финишная\3.2-Шпаклевка финишная.dsd
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.6-ЧСТ3 штук 4.1 1\2.6-ЧСТ3 штук 4.1 1.dsd
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\2.5-Штук блок 5 спорт залы ЧСТ-2.1\2.5-ШтЧСТ2.1 Спорт Залы Блок 5 АРОР.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\naryadi\4) откосы\2-От\2 откосы кроме краски.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\1.9 Строительные леса.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\1.8 Строительные леса\1.8 Строительные леса.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
