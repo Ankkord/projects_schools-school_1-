@@ -1,0 +1,85 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.9-8РемДеф
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.9-8РемДеф
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.9-8РемДеф
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.9-8РемДеф
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.8-Ст-Дефектовка, шпалк, покраска\walls-k.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.8-Ст-Дефектовка, шпалк, покраска\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.8-КРаска ПТ-5 4 вып\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.5-Штукатурка 4 вып\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.31 Блок 4 в\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.2-Обеспыливание 4 вып\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.7 Краска 4 вып НЗ\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.6 Краска 4 вып\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.7-Шпаклевка 4 вып НЗ\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.6-Шпаклеква 4 вып\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.7-Штук 4 вып НЗ\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.6-Штук 4 вып\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.3 Шпаклевка лючков хаммер\
+[MRU Sheet List]
+MRU=1
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.8-КРаска ПТ-5 4 вып\2.8-КРаска ПТ-5 4 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

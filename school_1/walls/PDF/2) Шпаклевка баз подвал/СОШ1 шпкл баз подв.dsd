@@ -1,0 +1,79 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_1\walls\school_1_walls.dwg
+Layout=пдвл шпакл баз
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\walls\school_1_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_1\walls\school_1_walls.dwg
+Layout=пдвл шпакл баз
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\walls\school_1_walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\СОШ1 шпкл баз подв.pdf
+OUT=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\
+File1=C:\Users\Linux\Documents\schools\school_1\walls\PDF\1) Перегородки Подвал\
+File2=C:\Users\Linux\Documents\schools\school_1\walls\PDF\4) СОШ1 дверные проемы подвал\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.4-Штукатурка 1эт 3.1 вып\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.1-Обеспыливание потолка 3.1 вып\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.5 Шпакл 3.1 вып\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.4-Штук 3.1 вып\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.3-Штук подвал 3.1 вып\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.10 Кирпич Кровля 3.1 вып\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.2-Шпаклевка финишная\
+[MRU Sheet List]
+MRU=9
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.2-Штук 3 вып\3.2-Штук 3 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_1\walls\PDF\4) СОШ1 дверные проемы подвал\4) СОШ1 дверные проемы подвал.dsd
+File2=C:\Users\Linux\Documents\schools\school_1\walls\PDF\1) Перегородки Подвал\СОШ1 перегородки.dsd
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.4-Штукатурка 1эт 3.1 вып\3.4-Штукатурка 1эт 3.1 вып.dsd
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\2.4-Краска 3.1 вып.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.1-Обеспыливание потолка 3.1 вып\3.1-Обеспыливание потолка 3.1 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.5 Шпакл 3.1 вып\1.5-Шпаклевка 3.1 вып.dsd
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.4-Штук 3.1 вып\0.4-Штукактурка 3.1 вып.dsd
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.3-Штук подвал 3.1 вып\3.3 Штукатурка подвал 3.1в.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

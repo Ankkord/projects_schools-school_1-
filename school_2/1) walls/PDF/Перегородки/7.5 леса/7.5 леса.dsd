@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=7.5лес
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=7.5лес
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\7.5 леса.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.4 Блок 1 эт\
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Резка, демонтаж, монтаж ЛК 9 10 11\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.1 ПГП 1 эт Май\
+File4=C:\Users\Linux\Documents\schools\school_1\walls\PDF\3) Шпаклевка фин подвал\
+File5=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\
+File6=C:\Users\Linux\Documents\schools\school_1\walls\PDF\1) Перегородки Подвал\
+File7=C:\Users\Linux\Documents\schools\school_1\walls\PDF\4) СОШ1 дверные проемы подвал\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.4-Штукатурка 1эт 3.1 вып\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.1-Обеспыливание потолка 3.1 вып\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.4 Блок 1 эт\7.4 блок 1 эт.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.1 ПГП 1 эт Май\7.1 ПГП 1 эт Май.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Резка, демонтаж, монтаж ЛК 9 10 11\Резка, демонтаж, монтаж ЛК 9 10 11.dsd
+File3=C:\Users\Linux\Documents\schools\school_1\walls\PDF\3) Шпаклевка фин подвал\СОШ1 шпкл фин.dsd
+File4=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\СОШ1 шпкл баз подв.dsd
+File5=C:\Users\Linux\Documents\schools\school_1\walls\PDF\1) Перегородки Подвал\СОШ1 перегородки.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.2-Штук 3 вып\3.2-Штук 3 вып.dsd
+File7=C:\Users\Linux\Documents\schools\school_1\walls\PDF\4) СОШ1 дверные проемы подвал\4) СОШ1 дверные проемы подвал.dsd
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.4-Штукатурка 1эт 3.1 вып\3.4-Штукатурка 1эт 3.1 вып.dsd
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.4 Крск 3.1 вып\2.4-Краска 3.1 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

@@ -1,0 +1,108 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.2умень.двр.
+Setup=7 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 Уменьшение дв проемов\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 Уменьшение дв проемов\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-Ст-К строительная леса\
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Стены\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\8.1 Дверные откосы 1-3 этаж НЗ\
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Шлифовка пола\
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.8 фархверки\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.7 внешний блок\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.6 перемычки\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.4 Блок 1 эт\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-Ст-К строительная леса\6.2-Ст-К строительная леса.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-Ст-К(НЗ) Шпаклевка РВР\5.1-Шпакевка РВР.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Стены\Стены ЛК9 10 11.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\staircase_stairwy_stairs.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Шлифовка пола\9.1 Шлифовка пола 1-3 эт НЗ.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\8.1 Дверные откосы 1-3 этаж НЗ\8.1 Дверные откосы 1-3 этаж НЗ.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.8 фархверки\7.8 фархверки.dsd
+File7=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).dsd
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.7 внешний блок\7.7 внешний блок.dsd
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.6 перемычки\7.6 перемычки.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

@@ -1,0 +1,178 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1.1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.4Ўп–емЅаз
+Setup=1 вертикаль ј4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:1.2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.4Ўп–емЅаз
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:1.3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.4Ўп–емЅаз
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:1.4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.4Ўп–емЅаз
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.5Ўп–ем‘н
+Setup=1 вертикаль ј4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.5Ўп–ем‘н
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.5Ўп–ем‘н
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.5Ўп–ем‘н
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.6Ўп–емќтк‘Ѕз
+Setup=1 вертикаль ј4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.6Ўп–емќтк‘Ѕз
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.6Ўп–емќтк‘Ѕз
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.6Ўп–емќтк‘Ѕз
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.7Ўп–емќтк‘н
+Setup=1 вертикаль ј4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.7Ўп–емќтк‘н
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.7Ўп–емќтк‘н
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4.4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Layout=3.7Ўп–емќтк‘н
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\walls-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Ќ«\–емонт шп и откосов\–емонт шп и откосов.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Ќ«\–емонт шп и откосов\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\Ќ«\–емонт шп и откосов\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 ”меньшение дв проемов\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-—т-  строительна€ леса\
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Ћестницы\PDF лестницы\—тены\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\8.1 ƒверные откосы 1-3 этаж Ќ«\
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Ўлифовка пола\
+File6=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Ћестницы (Ќ«)\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.8 фархверки\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.7 внешний блок\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.6 перемычки\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.5 леса\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 ”меньшение дв проемов\8.2 ”меньшение дв проемов.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\8.1 ƒверные откосы 1-3 этаж Ќ«\8.1 ƒверные откосы 1-3 этаж Ќ«.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-—т-  строительна€ леса\6.2-—т-  строительна€ леса.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5-—т- (Ќ«) Ўпаклевка –¬–\5.1-Ўпакевка –¬–.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Ћестницы\PDF лестницы\—тены\—тены Ћ 9 10 11.dsd
+File5=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Ћестницы\PDF лестницы\staircase_stairwy_stairs.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Ўлифовка пола\9.1 Ўлифовка пола 1-3 эт Ќ«.dsd
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.8 фархверки\7.8 фархверки.dsd
+File8=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Ћестницы (Ќ«)\1, 2, 3 Ћестницы  ремонт пола (Ќ«).dsd
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\ѕерегородки\7.7 внешний блок\7.7 внешний блок.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ѕрофиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

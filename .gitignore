@@ -2,6 +2,7 @@
 *.bak
 *.err
 *.log
+*.txt
 RD/
 dwg RD/
 naryadi/

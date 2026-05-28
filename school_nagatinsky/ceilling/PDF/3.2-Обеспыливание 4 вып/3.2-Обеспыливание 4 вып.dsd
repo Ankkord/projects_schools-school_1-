@@ -1,0 +1,94 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.2Пыль4в
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.2Пыль4в
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.2Пыль4в
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.2Пыль4в
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.2-Обеспыливание 4 вып\3.2-Обеспыливание 4 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.2-Обеспыливание 4 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.2-Обеспыливание 4 вып\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.7 Краска 4 вып НЗ\
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.6 Краска 4 вып\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.7-Шпаклевка 4 вып НЗ\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.6-Шпаклеква 4 вып\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.7-Штук 4 вып НЗ\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.6-Штук 4 вып\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.4 откосы лючков хаммер\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.3 Шпаклевка лючков хаммер\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Ремонт шп и откосов\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-Ст-К строительная леса\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.7 Краска 4 вып НЗ\2.7 Краска 4 вып НЗ.dsd
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.6 Краска 4 вып\2.6 Краска 4 вып.dsd
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.7-Шпаклевка 4 вып НЗ\1.7-Шпаклевка 4 вып НЗ.dsd
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.6-Шпаклеква 4 вып\1.6-Шпаклевка 4 вып.dsd
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.7-Штук 4 вып НЗ\0.7-Шпаклевка 4 вып НЗ.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.6-Штук 4 вып\0.6-Шпаклевка 4 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.3 Шпаклевка лючков хаммер\8.3 Шпаклевка лючков хаммер.dsd
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.4 откосы лючков хаммер\8.4 откосы лючков хаммер.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Ремонт шп и откосов\Ремонт шп и откосов.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-Ст-К строительная леса\6.2-Ст-К строительная леса.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
