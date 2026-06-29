@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=5.1Пл6в
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=5.1Пл6в
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\5.1-Плитка стен 6 вып\5.1-Плитка стен 6 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\5.1-Плитка стен 6 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\5.1-Плитка стен 6 вып\
+File1=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.6-Плитка 6 вып\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\2.1.1-CF1 Доп слой краска\
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\4-Ст-ЛК Строит леса\
+File4=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\PDF\6.1- Наливной пол спорт зал 5 блок 6 вып\
+File5=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\
+File6=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.2-Обработка Тип 5 5.1 6 вып\
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\5.3-СКБ Лестниц 6 выр\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.2-Демонтаж шпакл и штук\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.1-Заделка штроб\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.6-Плитка 6 вып\7.6-Плитка 6 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.3 Шпаклевка лючков хаммер\8.3 Шпаклевка лючков хаммер.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\2.1.1-CF1 Доп слой краска\2.1.1-CF1 Доп слой краска.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.1-Заделка штроб\4.1-Заделка штроб.dsd
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\0.6-Штук 4 вып\0.6-Штукатурка 4 вып.dsd
+File5=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\4-Ст-ЛК Строит леса\4-Ст-ЛК Строит леса.dsd
+File6=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.2-Обработка Тип 5 5.1 6 вып\7.2-Обработка Тип 5 5.1 6 вып.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\PDF\6.1- Наливной пол спорт зал 5 блок 6 вып\блок 5 пол спортзалы.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\5.3-СКБ Лестниц 6 выр\5.3-СКБ Лестниц 6 выр.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\4.3- Штук, шпак. и окрс стен НЗ.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

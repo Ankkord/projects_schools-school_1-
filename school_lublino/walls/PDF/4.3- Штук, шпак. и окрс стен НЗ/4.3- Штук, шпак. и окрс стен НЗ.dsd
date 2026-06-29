@@ -1,0 +1,81 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.3мтж
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.3мтж
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.3мтж
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\4.3- Штук, шпак. и окрс стен НЗ.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.2-Демонтаж шпакл и штук\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.1-Заделка штроб\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.8-Ст-Дефектовка, шпалк, покраска\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.8-КРаска ПТ-5 4 вып\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.5-Штукатурка 4 вып\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.31 Блок 4 в\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.2-Обеспыливание 4 вып\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.7 Краска 4 вып НЗ\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.6 Краска 4 вып\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\1.7-Шпаклевка 4 вып НЗ\
+[MRU Sheet List]
+MRU=4
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.2-Демонтаж шпакл и штук\4.2-Демонтаж шпакл и штук.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.1-Заделка штроб\4.1-Заделка штроб.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\3.8-Ст-Дефектовка, шпалк, покраска\3.8-Ст-Дефектовка, шпалк, покраска.dsd
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\2.8-КРаска ПТ-5 4 вып\2.8-КРаска ПТ-5 4 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

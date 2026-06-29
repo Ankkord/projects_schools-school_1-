@@ -3,49 +3,56 @@ Ver=1
 [DWF6MinorVersion]
 MinorVer=1
 [DWF6Sheet:1]
-DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Layout=3.1ШпФин
 Setup=1 вертикаль А4
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Has Plot Port=0
 Has3DDWF=0
 [DWF6Sheet:2]
-DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Layout=3.1ШпФин
 Setup=2 вертикаль
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Has Plot Port=0
 Has3DDWF=0
 [DWF6Sheet:3]
-DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Layout=3.1ШпФин
 Setup=3 вертикаль
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Has Plot Port=0
 Has3DDWF=0
 [DWF6Sheet:4]
-DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Layout=3.1ШпФин
 Setup=4 вертикаль
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\steni 2025.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_1.dwg
 Has Plot Port=0
 Has3DDWF=0
 [Target]
 Type=6
-DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка финишная\steni 2025.pdf
-OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка финишная\
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка послефинишная\3.1-Шпаклевка послефинишная.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка послефинишная\
 PWD=
 [MRU Local]
-MRU=2
-File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка финишная\
-File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка послефинишная\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.3-Шпаклевка финишная 6 вып\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\5.1-Плитка стен 6 вып\
+File3=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.6-Плитка 6 вып\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\2.1.1-CF1 Доп слой краска\
+File5=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\4-Ст-ЛК Строит леса\
+File6=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\PDF\6.1- Наливной пол спорт зал 5 блок 6 вып\
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\
+File8=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.2-Обработка Тип 5 5.1 6 вып\
+File9=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\5.3-СКБ Лестниц 6 выр\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\
 [MRU Sheet List]
-MRU=2
-File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\8.1-оргалит защита\8.1-оргалит.dsd
-File1=C:\Users\Linux\Documents\schools\school_1\walls\перегородки.dsd
+MRU=0
 [PdfOptions]
 IncludeHyperlinks=TRUE
-CreateBookmarks=TRUE
+CreateBookmarks=FALSE
 CaptureFontsInDrawing=TRUE
 ConvertTextToGeometry=FALSE
 VectorResolution=1200
@@ -59,7 +66,7 @@ IsHomogeneous=FALSE
 SheetSet Name=
 NoOfCopies=1
 PlotStampOn=FALSE
-ViewFile=FALSE
+ViewFile=TRUE
 JobID=0
 SelectionSetName=
 AcadProfile=<<Профиль без имени>>
@@ -68,7 +75,7 @@ LogFilePath=
 IncludeLayer=TRUE
 LineMerge=FALSE
 CurrentPrecision=
-PromptForDwfName=TRUE
+PromptForDwfName=FALSE
 PwdProtectPublishedDWF=FALSE
 PromptForPwd=FALSE
 RepublishingMarkups=FALSE

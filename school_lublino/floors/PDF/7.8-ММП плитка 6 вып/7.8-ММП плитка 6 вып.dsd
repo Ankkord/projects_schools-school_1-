@@ -1,0 +1,72 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=7.8плтк
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=7.8плтк
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8-ММП плитка 6 вып\7.8-ММП плитка 6 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8-ММП плитка 6 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8-ММП плитка 6 вып\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.5-Устройство дверных откосов\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.4-Демонтаж стен, спорт залы\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.1-Шпаклевка послефинишная\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.3-Шпаклевка финишная 6 вып\
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\5.1-Плитка стен 6 вып\
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.6-Плитка 6 вып\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\2.1.1-CF1 Доп слой краска\
+File9=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\4-Ст-ЛК Строит леса\
+File10=C:\Users\Linux\Documents\schools\school_lublino\floors\Блок 5\PDF\6.1- Наливной пол спорт зал 5 блок 6 вып\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.5-Устройство дверных откосов\4.5-Устройство дверных откосов.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\3.3-Шпаклевка финишная 6 вып\3.3-Шпаклевка финишная 6 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
