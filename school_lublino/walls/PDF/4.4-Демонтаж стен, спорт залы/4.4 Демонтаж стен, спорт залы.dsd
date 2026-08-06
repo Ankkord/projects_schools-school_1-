@@ -2,87 +2,108 @@
 Ver=1
 [DWF6MinorVersion]
 MinorVer=1
-[DWF6Sheet:1]
+[DWF6Sheet:1.1]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=1 вертикаль ј4
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:2]
+[DWF6Sheet:1.2]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=2 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:3]
+[DWF6Sheet:1.3]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=3 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:4]
+[DWF6Sheet:1.4]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=4 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:5]
+[DWF6Sheet:1.5]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=5 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:6]
+[DWF6Sheet:1.6]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.1–з
 Setup=6 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:7]
+[DWF6Sheet:1.7]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.4.1–з
+Setup=7
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2.1]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.2ƒм
 Setup=4 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:8]
+[DWF6Sheet:2.2]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.2ƒм
 Setup=5 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:9]
+[DWF6Sheet:2.3]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.2ƒм
 Setup=6 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:10]
+[DWF6Sheet:2.4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.4.2ƒм
+Setup=7
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.1]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.3Ўл
 Setup=4 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:11]
+[DWF6Sheet:3.2]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.3Ўл
 Setup=5 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:12]
+[DWF6Sheet:3.3]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Layout=4.4.3Ўл
 Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3.4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=4.4.3Ўл
+Setup=7
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
 Has Plot Port=0
 Has3DDWF=0

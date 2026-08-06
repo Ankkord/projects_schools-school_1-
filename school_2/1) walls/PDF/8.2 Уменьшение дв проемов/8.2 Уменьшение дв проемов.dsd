@@ -46,8 +46,8 @@ Has Plot Port=0
 Has3DDWF=0
 [Target]
 Type=6
-DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.pdf
-OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\8.2 Уменьшение дв проемов\
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\
 PWD=
 [MRU Local]
 MRU=11

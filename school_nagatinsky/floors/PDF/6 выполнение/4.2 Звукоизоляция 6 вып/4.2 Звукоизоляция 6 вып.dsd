@@ -1,0 +1,108 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=1 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Layout=4.2звк6в
+Setup=6 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\floors-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\4.2 Звукоизоляция 6 вып\4.2 Звукоизоляция 6 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\4.2 Звукоизоляция 6 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\5.2 Стяжка М200 6 вып\
+File1=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\1.3 Стяжка М150 6 вып\
+File2=C:\Users\Linux\Documents\schools\школа 28\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\Walls\
+File4=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР штук и шпакл\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\4 выполнение\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Стена 4 выполнение\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\7) 4 выполнение\
+File10=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Плитка пол\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\1.3 Стяжка М150 6 вып\1.3 Стяжка М150 6 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.6 заделка отв\8.6 заделка отв..dsd
+File2=C:\Users\Linux\Documents\schools\школа 28\Школа 28.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\7) 4 выполнение\Пол 4 выполнение.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\1-Шл-К\1-Шл-К.dsd
+File6=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\diafragma блок 4.1.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.4-Демонтаж стен, спорт залы\4.4 Демонтаж стен, спорт залы.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\1-Дм-Ст-К - (демонтаж).dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР штук и шпакл\4.2-РВР.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

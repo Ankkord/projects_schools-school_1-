@@ -1,0 +1,86 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=7.9инв
+Setup=1 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=7.9инв
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=7.9инв
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=7.9инв
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.9-Штукатурка стены СУ\7.9-Штукатурка стены СУ.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.9-Штукатурка стены СУ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.9-Штукатурка стены СУ\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.4-5.5 Шпаклевка стен 4 вып\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.3 Л-7 П-11 линолеум 4 вып\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.2.1 Л-1 Линолеум 4 вып\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.2-5.3 Шпаклевка Баз Фин WD 4 вып\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР дверн откосы\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\3.1-3.5 Нал. пол 4 вып\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\1-Шл-К\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ПГП 4 вып\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.4-Блок ячейстый 4 вып\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.8-плитка стены итоговое\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.4-5.5 Шпаклевка стен 4 вып\5.5 Шпаклевка стен финишная 4 вып.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.4-5.5 Шпаклевка стен 4 вып\5.4 Шпаклевка стен базовая 4 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

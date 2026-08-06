@@ -5,7 +5,7 @@ MinorVer=1
 [DWF6Sheet:1]
 DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Layout=8.5дфрг
-Setup=1 вертикаль А4
+Setup=1 вертикаль
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Has Plot Port=0
 Has3DDWF=0
@@ -34,6 +34,20 @@ Has3DDWF=0
 DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Layout=8.5дфрг
 Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.5дфрг
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5-Копия(1)]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.5дфрг
+Setup=7 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Has Plot Port=0
 Has3DDWF=0

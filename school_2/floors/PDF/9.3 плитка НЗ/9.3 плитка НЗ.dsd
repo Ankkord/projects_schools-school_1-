@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=9.3
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Layout=9.3
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\9.3 плитка НЗ.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\
+File1=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.2 НЗ облицовка вент короба\
+File2=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\НЗ лифт шахты потолок, файерборд\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.6 заделка отв\
+File4=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\5.2-Шпаклевка 6 вып\
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\5.2 Стяжка М200 6 вып\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\4.2 Звукоизоляция 6 вып\
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\1.3 Стяжка М150 6 вып\
+File8=C:\Users\Linux\Documents\schools\школа 28\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\Walls\
+File10=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.2 НЗ облицовка вент короба\6.2 НЗ облицовка вент короба.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Шлифовка пола\9.1 Шлифовка пола 1-3 эт НЗ.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\НЗ лифт шахты потолок, файерборд\НЗ лифт шахты потолок, файерборд.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.6 заделка отв\8.6 заделка отв..dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.5 диафрагмы\8.5 диафрагмы.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\5.2-Шпаклевка 6 вып\5.2-Шпаклевка 6 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\5.2 Стяжка М200 6 вып\5.2 Стяжка М200 6 вып.dsd
+File7=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\4.2 Звукоизоляция 6 вып\4.2 Звукоизоляция 6 вып.dsd
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\6 выполнение\1.3 Стяжка М150 6 вып\1.3 Стяжка М150 6 вып.dsd
+File9=C:\Users\Linux\Documents\schools\школа 28\Школа 28.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

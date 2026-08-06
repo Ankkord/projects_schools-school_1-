@@ -1,0 +1,122 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=7 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=8 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:8]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=8.6отв
+Setup=9 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.6 заделка отв\8.6 заделка отв..pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.6 заделка отв\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\Walls\
+File1=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР штук и шпакл\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\4 выполнение\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Стена 4 выполнение\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\7) 4 выполнение\
+File7=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Плитка пол\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.9-Штукатурка стены СУ\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.4-5.5 Шпаклевка стен 4 вып\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.3 Л-7 П-11 линолеум 4 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\diafragma блок 4.1.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.4-Демонтаж стен, спорт залы\4.4 Демонтаж стен, спорт залы.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\1-Дм-Ст-К - (демонтаж)\1-Дм-Ст-К - (демонтаж).dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-РВР штук и шпакл\4.2-РВР.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\ceilling\PDF\4 выполнение\потолок 4 выполнение.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\Стена 4 выполнение\Стена 4 выполнение.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\7) 4 выполнение\Пол 4 выполнение.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\Скопом\Пол 4 вып.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.9-Штукатурка стены СУ\7.9-Штукатурка стены СУ.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.8-плитка стены итоговое\7.8.1-плитка стены итоговое.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

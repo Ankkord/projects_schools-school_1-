@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=5.2.1Ë1â4
+Setup=1 âåðòèêàë À4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Layout=5.2.1Ë1â4
+Setup=2 ãîðèçîíò
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\floors\floor-k.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.2.1 Ë-1 Ëèíîëåóì 4 âûï\5.2.1 Ë-1 Ëèíîëåóì 4 âûï.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.2.1 Ë-1 Ëèíîëåóì 4 âûï\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.2.1 Ë-1 Ëèíîëåóì 4 âûï\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.2-5.3 Øïàêëåâêà Áàç Ôèí WD 4 âûï\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-ÐÂÐ äâåðí îòêîñû\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.3 Ë-7 Ï-11 4 âûï\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\3.1-3.5 Íàë. ïîë 4 âûï\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\1-Øë-Ê\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ÏÃÏ 4 âûï\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.4-Áëîê ÿ÷åéñòûé 4 âûï\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.8-ïëèòêà ñòåíû èòîãîâîå\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Øòóê, øïàê. è îêðñ ñòåí ÍÇ\
+File10=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Ïëèòêà ïîë\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.2-5.3 Øïàêëåâêà Áàç Ôèí WD 4 âûï\5.2-Áàç øïàêëåâêà ïåðåãîðîäîê WD 4 âûï.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\5.2-5.3 Øïàêëåâêà Áàç Ôèí WD 4 âûï\5.3-Ôèí øïàêëåâêà ïåðåãîðîäîê WD 4 âûï.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\4.2-ÐÂÐ äâåðí îòêîñû\4.2-ÐÂÐ.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\5.3 Ë-7 Ï-11 4 âûï\5.3 Ë-7 Ï-11 4 âûï.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\3.1-3.5 Íàë. ïîë 4 âûï\3.1-3.5 Íàë. ïîë 4 âûï.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\floors\PDF\1-Øë-Ê\1-Øë-Ê.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.4-Áëîê ÿ÷åéñòûé 4 âûï\6.4-Áëîê ÿ÷åéñòûé 4 âûï.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ÏÃÏ 4 âûï\6.5-ÏÃÏ 4 âûï.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.2-Ñò-Ê ñòðîèòåëüíàÿ ëåñà\6.2-Ñò-Ê ñòðîèòåëüíàÿ ëåñà.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Ïëèòêà ïîë\7.8.2-Ïëèòêà ïîë.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Ïðîôèëü áåç èìåíè>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

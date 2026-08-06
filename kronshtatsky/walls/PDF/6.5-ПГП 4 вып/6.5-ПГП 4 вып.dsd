@@ -1,0 +1,94 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Layout=6.5ПГП4в
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Layout=6.5ПГП4в
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Layout=6.5ПГП4в
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Layout=6.5ПГП4в
+Setup=4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\Кладочный план на отм- -0-130.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ПГП 4 вып\6.5-ПГП 4 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ПГП 4 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.5-ПГП 4 вып\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.4-Блок ячейстый 4 вып\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\7.8-плитка стены итоговое\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\
+File4=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Плитка пол\
+File5=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8-ММП плитка 6 вып\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\
+File7=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.5 диафрагмы\
+File8=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\6.1-Леса 5 вып\
+File9=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.6-Штукатурка 5 вып\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\5.1-Шпаклевка 5 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\walls\PDF\6.4-Блок ячейстый 4 вып\6.4-Блок ячейстый 4 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Плитка пол\7.8.2-Плитка пол.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\7.8.1-Плитка пол\7.8.1-Плитка пол.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\4.3- Штук, шпак. и окрс стен НЗ.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.3- Штук, шпак. и окрс стен НЗ\4.3.2- Штук, шпак. и окрс стен НЗ.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\floors\PDF\5 выполнение\4.1 Звукоизоляция 5 вып\4.1 Звукоизоляция 5 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.dsd
+File7=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.1 Шлифовка пола\9.1 Шлифовка пола 1-3 эт НЗ.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\4.4-Демонтаж стен, спорт залы\4.4 Демонтаж стен, спорт залы.dsd
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.5 диафрагмы\8.5 диафрагмы.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
