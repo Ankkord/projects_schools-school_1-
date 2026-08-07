@@ -2,13 +2,6 @@
 Ver=1
 [DWF6MinorVersion]
 MinorVer=1
-[DWF6Sheet:1]
-DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Layout=4.1
-Setup=2 горизонт
-OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Has Plot Port=0
-Has3DDWF=0
 [DWF6Sheet:2]
 DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
 Layout=4.1
@@ -20,20 +13,6 @@ Has3DDWF=0
 DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
 Layout=4.1
 Setup=4 горизонт
-OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Has Plot Port=0
-Has3DDWF=0
-[DWF6Sheet:4]
-DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Layout=4.1
-Setup=5 горизонт
-OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Has Plot Port=0
-Has3DDWF=0
-[DWF6Sheet:5]
-DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
-Layout=4.1
-Setup=6 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
 Has Plot Port=0
 Has3DDWF=0
