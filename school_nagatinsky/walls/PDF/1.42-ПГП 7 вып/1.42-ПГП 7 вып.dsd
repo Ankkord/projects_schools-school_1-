@@ -1,0 +1,70 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=1.42ПГП6в
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Layout=1.42ПГП6в
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\walls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\1.42-ПГП 6 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\
+File2=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.4 Защита оргалитом\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\5 краска до слой\
+File5=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.1 Стяжка керамзит пол\
+File6=C:\Users\Linux\Documents\schools\hospital\стены\pdf\4.1 Шпаклевка стен\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен\
+File8=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\
+File9=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.2 НЗ облицовка вент короба\
+File10=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\НЗ лифт шахты потолок, файерборд\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

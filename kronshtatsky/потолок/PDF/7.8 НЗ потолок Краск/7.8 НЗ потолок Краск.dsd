@@ -1,0 +1,79 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.8Крс
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.8Крс
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\7.8 НЗ потолок Краск.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.7 НЗ монтаж CF4\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\6.2 плинтус 5 вып\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\7.1- перегородки Август\
+File9=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\
+File10=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.4 НЗ облицовка вент короба\
+[MRU Sheet List]
+MRU=9
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.7 НЗ монтаж CF4\7.7 НЗ монтаж CF6.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\7.3 НЗ потолок альбес.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\7.2 НЗ потолок грильяо.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\7.1 НЗ Потолок армстронг.dsd
+File5=C:\Users\Linux\Documents\schools\крон 9\Крон 9.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\7.1- перегородки Август\7.1- перегородки Август.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\6.2 плинтус 5 вып\6.2 плинтус 5 вып..dsd
+File8=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.4 НЗ облицовка вент короба\6.4 НЗ облицовка вент короба.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

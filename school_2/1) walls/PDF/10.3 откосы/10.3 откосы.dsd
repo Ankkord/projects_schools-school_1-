@@ -1,0 +1,115 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=10.3отк
+Setup=7 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\10.3 откосы.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\
+File1=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.4 НЗ облицовка вент короба\
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.7 защита плитки пол оргалитом\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.5 Уборка мусора\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.2 Пилоны\
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.9 штробы\
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.7-Штукатурка 6 вып\
+File7=C:\Users\Linux\Documents\schools\крон 9\
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\
+File10=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.4 НЗ облицовка вент короба\6.4 НЗ облицовка вент короба.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.7 защита плитки пол оргалитом\9.7 защита плитки пол оргалитом.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.5 Уборка мусора\9.5 Уборка мусора.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.2 Пилоны\10.2 Пилоны.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.9 штробы\8.9 штробы.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\6.3 НЗ окраска потолка с инж коммун.dsd
+File6=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\3.7-Штукатурка 6 вып\3.7-Штукатурка 6 вып.dsd
+File7=C:\Users\Linux\Documents\schools\крон 9\Крон 9.dsd
+File8=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\7.5.1 НЗ строит леса.dsd
+File9=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.4 Защита оргалитом\9.4 Защита оргалитом.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

@@ -1,0 +1,101 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Layout=9
+Setup=1 в
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Layout=9
+Setup=2 г
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Layout=9
+Setup=3 г
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Layout=9
+Setup=4 г
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Layout=9
+Setup=5 г
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_1\ceiling\school_1_ceiling.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\9 Краска стен Ш1\9 Краска стен Ш1.pdf
+OUT=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\9 Краска стен Ш1\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\9 Краска стен Ш1\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.7 НЗ монтаж CF4\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\6.2 плинтус 5 вып\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\7.1- перегородки Август\
+File10=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.3 Шпаклевка лючков хаммер\8.3 Шпаклевка лючков хаммер.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\7.8 НЗ потолок Краск.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.7 НЗ монтаж CF4\7.7 НЗ монтаж CF6.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\7.3 НЗ потолок альбес.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\7.2 НЗ потолок грильяо.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\7.1 НЗ Потолок армстронг.dsd
+File8=C:\Users\Linux\Documents\schools\крон 9\Крон 9.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\7.1- перегородки Август\7.1- перегородки Август.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

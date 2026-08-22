@@ -1,0 +1,342 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1) Монтаж плитки]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=1монт.плтк
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2) Демонтаж плитки]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=2дем.плтк
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3) Плинтус керам]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=3плт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3) Плинтус керам стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=3плт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5) Демонт плинт керам]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=5дмПл
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5) Демонт плинт керам стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=5дмПл
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6) Затарка материала]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=6Зат
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6) Затарка материала стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=6Зат
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7) Уборка мусора]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=7Убор
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7) Уборка мусора стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=7Убор
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:8)Пол линолеум Л-1.1]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=8ЛинЛ1.1
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:9) Пол плитка]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=9ПлПлтк
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:11) Плинтус самоклеющ]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=11Плт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:11) Плинтус самоклеющ стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=11Плт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:12) Наливной пол]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=12НалПл
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:13) Стена Плитка СТ-4.1]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=13Ст4.1Пл
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:13) Стена Плитка СТ-4.1 стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=13Ст4.1Пл
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:15) Стена штукатурка СТ-1.1]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=15Шт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:15) Стена штукатурка СТ-1.1 стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=15Шт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:16) Стена краска]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=16КрсСт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:16) Стена краска стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=16КрсСт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:18) Потолок краска]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=18КрсПот
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:18) Потолок краска стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=18КрсПот
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:20) Стена шпаклевка базовая]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=20ШпСт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:20) Стена шпаклевка базовая стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=20ШпСт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:21) Стена шпаклевка финишная]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=21ШпСт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:21) Стена шпаклевка финишная стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=21ШпСт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:22) Потолок шпаклевка базовая]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=22ШпПт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:22) Потолок шпаклевка базовая стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=22ШпПт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:23) Потолок шпаклевка финишная]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=23ШпПт
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:23) Потолок шпаклевка финишная стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=23ШпПт
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:24) Демонтаж плитки самоклеющ]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=24Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:25) Демонтаж пол линолеум]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=25Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:26) Демонтаж наливного пола]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=26Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:27) Демонтаж плинтус]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=27Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:27) Демонтаж плинтус стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=27Дм
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:28) Демонтаж стена плитки]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=28Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:28) Демонтаж стена плитки стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=28Дм
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:29) Демонтаж шпаклевки стен]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=29Дм
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:29) Демонтаж шпаклевки стен стр2]
+DWG=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Layout=29Дм
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\крон 9\kron9.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\крон 9\Крон 9.pdf
+OUT=C:\Users\Linux\Documents\schools\крон 9\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\крон 9\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\
+File3=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\
+File4=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.4 Защита оргалитом\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\5 краска до слой\
+File7=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.1 Стяжка керамзит пол\
+File8=C:\Users\Linux\Documents\schools\hospital\стены\pdf\4.1 Шпаклевка стен\
+File9=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен\
+File10=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\
+[MRU Sheet List]
+MRU=6
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\7.5.1 НЗ строит леса.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.4 Защита оргалитом\9.4 Защита оргалитом.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\9.3 плитка НЗ.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\6.3 НЗ окраска потолка с инж коммун.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\9.1 акст стены ммп, лес.dsd
+File5=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\1.42-ПГП 6 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

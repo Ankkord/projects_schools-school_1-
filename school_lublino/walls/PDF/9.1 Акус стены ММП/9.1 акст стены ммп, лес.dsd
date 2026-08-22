@@ -1,0 +1,73 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:9.1 Аккуст стены ММП]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=9.1ММП
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:9.1.1 Леса ММП]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=9.1ММП
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=5
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\9.1 акст стены ммп, лес.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\
+File2=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\
+File3=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.4 Защита оргалитом\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\walls\НЗ\5 краска до слой\
+File5=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.1 Стяжка керамзит пол\
+File6=C:\Users\Linux\Documents\schools\hospital\стены\pdf\4.1 Шпаклевка стен\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен\
+File8=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\
+File9=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.2 НЗ облицовка вент короба\
+File10=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\НЗ лифт шахты потолок, файерборд\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.3 плитка НЗ\9.3 плитка НЗ.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\7.5.1 лес\7.5.1 НЗ строит леса.dsd
+File2=C:\Users\Linux\Documents\schools\school_nagatinsky\walls\PDF\1.42-ПГП 6 вып\1.42-ПГП 6 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
