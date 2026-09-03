@@ -1,0 +1,87 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Layout=1.2Ст3в
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Layout=1.2Ст3в
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Layout=1.2Ст3в
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\пол\floor.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\1.2 Стяжка керамзит пол 3 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\
+File1=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.1 нз1510_1 Штукатурка\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.2 нз1510_1 Краска за радиат\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.10 Антигриб\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\
+File7=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.9 НЗ окраска опусков стен\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\
+File10=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\Пол\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.1 нз1510_1 Штукатурка\10.1 нз1510_1 Штукатурка.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.2 нз1510_1 Краска за радиат\10.2 нз1510_1 Краска за радиат.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.3 НЗ 1050 Ремонт краски.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.10 Антигриб\9.10 Антигриб.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\9.9 НЗ 1510 Демонтаж.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.2 Пилоны\10.2 Пилоны.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.6 штробы\9.6-9.8 Штробы заделка.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.6 штробы\стены двг.dsd
+File9=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\16 лак стены 1.6м.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

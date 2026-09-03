@@ -1,0 +1,150 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1. НЗ строит леса Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=1
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2. НЗ Стяжка пол Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=2
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3. НЗ гидроиз пол Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=3
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4. НЗ плитка плинтус пол Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5. НЗ штук стен Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=5
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6. НЗ шпакл стен Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=6
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7. НЗ краска стен Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=7
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:8. НЗ шпаклевка потолка Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=8
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:9. НЗ монтаж ГКЛ потолка Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=9
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10. НЗ шпакл потолка Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=10
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:11. НЗ краска потолка Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=11
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:12. НЗ Диафрагма Вент. Кам.]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Layout=11НЗ
+Setup=12
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\10.3 НЗ вент камеры 5 бл. 3 эт.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\7.1-7.9) НЗ Пол\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.1 Шпаклевка стен 5-блок 8 вып\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.1-Наливной пол 8 вып\
+File5=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.5) Штук. стен 3 вып\
+File6=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.1 нз1510_1 Штукатурка\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.2 нз1510_1 Краска за радиат\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.10 Антигриб\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\Опуск стен до потодка.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.9 НЗ окраска опусков стен\7.9 НЗ окраска опусков стен.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\7.1-7.9) НЗ Пол\7.5 Линолеум.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.1 Шпаклевка стен 5-блок 8 вып\10.1 Шпаклевка стен 5-блок 8 вып.dsd
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\8.2 Линолеум 8 вып.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.1-Наливной пол 8 вып\8.1-Наливной пол 8 вып.dsd
+File8=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.5) Штук. стен 3 вып\2.5) Штук. стен 3 вып.dsd
+File9=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\1.2 Стяжка керамзит пол 3 вып.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

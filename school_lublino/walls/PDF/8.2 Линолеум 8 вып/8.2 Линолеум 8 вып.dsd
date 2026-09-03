@@ -1,0 +1,94 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=8.2Лин8в
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=8.2Лин8в
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=8.2Лин8в
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Layout=8.2Лин8в
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\floors\floors_lublino_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\8.2 Линолеум 8 вып.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.1-Наливной пол 8 вып\
+File2=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.5) Штук. стен 3 вып\
+File3=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.1 нз1510_1 Штукатурка\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.2 нз1510_1 Краска за радиат\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.10 Антигриб\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\
+File10=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\8.2 Линолеум 8 вып.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.1-Наливной пол 8 вып\8.1-Наливной пол 8 вып.dsd
+File2=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.5) Штук. стен 3 вып\2.5) Штук. стен 3 вып.dsd
+File3=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.2 Стяжка керамзит пол 3 вып\1.2 Стяжка керамзит пол 3 вып.dsd
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3\2.4) ГВЛ 1, 5 эт Тип 2, 4, 6. вып 3.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.1 нз1510_1 Штукатурка\10.1 нз1510_1 Штукатурка.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.2 нз1510_1 Краска за радиат\10.2 нз1510_1 Краска за радиат.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.3 НЗ 1050 Ремонт краски.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.10 Антигриб\9.10 Антигриб.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\9.9 НЗ 1510 Демонтаж.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

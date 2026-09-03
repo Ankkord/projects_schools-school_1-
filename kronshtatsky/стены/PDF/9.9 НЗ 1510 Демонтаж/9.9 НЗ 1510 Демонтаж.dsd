@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Layout=9.9ДмШт
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Layout=9.9ДмШт
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\9.9 НЗ 1510 Демонтаж.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.9 НЗ 1510 Демонтаж\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\
+File2=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.9 НЗ окраска опусков стен\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\
+File5=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\Пол\
+File6=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\11 Монт пола Ш1\
+File7=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\10 Дем. пола Ш1\
+File8=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\9 Краска стен Ш1\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.8 НЗ потолок Краск\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.3 НЗ 1050 Ремонт краски.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.2 Пилоны\10.2 Пилоны.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.6 штробы\9.6-9.8 Штробы заделка.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.6 штробы\стены двг.dsd
+File4=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\16 лак стены 1.6м.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\Опуск стен до потодка.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.5 НЗ 1050 Вывоз мусора.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.4 НЗ 1050 Подеъм материала.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.2 НЗ 1050 Ремонт шпаклевки.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\9.1-9.5 НЗ 1050\9.1 НЗ 1050 Ремонт штукатурки.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
