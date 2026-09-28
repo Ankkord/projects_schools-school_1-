@@ -5,7 +5,7 @@ MinorVer=1
 [DWF6Sheet:1]
 DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Layout=10.3отк
-Setup=1 вертикаль А4
+Setup=1 вертикаль
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Has Plot Port=0
 Has3DDWF=0

@@ -1,0 +1,87 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.20ДмМнт
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.20ДмМнт
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.20ДмМнт
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.20 НЗ потолок Демонтаж монтаж\7.20 НЗ потолок Демонтаж монтаж.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.20 НЗ потолок Демонтаж монтаж\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.20 НЗ потолок Демонтаж монтаж\
+File1=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\9.2 Линолеум спорт зал Инв\
+File2=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\9.1 Линолеум Инв\
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\9.1-9.2 Инвесторы\
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.4-10.7 Люки\
+File6=C:\Users\Linux\Documents\schools\hospital\потолок\pdf\1.1 шлифовка потолка\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.1 Шлифовка стен\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\9.2 Линолеум спорт зал Инв\9.2 Линолеум спорт зал Инв.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\9.1 Линолеум Инв\9.1 Линолеум классы коридоры Инв.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\7.14-7.16 Опуск стен Грильято.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск стен до потолка.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\7.2 НЗ потолок грильяо.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\7.3 НЗ потолок альбес.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\7.1 НЗ Потолок армстронг.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\9.1 Акус стены ММП\9.1 акст стены ммп, лес.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

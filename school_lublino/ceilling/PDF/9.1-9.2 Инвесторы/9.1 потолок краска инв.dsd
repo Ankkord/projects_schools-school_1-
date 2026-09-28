@@ -1,0 +1,79 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=9.1ИнвКр
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=9.1ИнвКр
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=9.1ИнвКр
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\9.1-9.2 Инвесторы\9.1 потолок краска инв.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\9.1-9.2 Инвесторы\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\9.1-9.2 Инвесторы\
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.4-10.7 Люки\
+File3=C:\Users\Linux\Documents\schools\hospital\потолок\pdf\1.1 шлифовка потолка\
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.1 Шлифовка стен\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+[MRU Sheet List]
+MRU=2
+File0=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\9.1-9.2 Инвесторы\9.2 окраска потолка Инв.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

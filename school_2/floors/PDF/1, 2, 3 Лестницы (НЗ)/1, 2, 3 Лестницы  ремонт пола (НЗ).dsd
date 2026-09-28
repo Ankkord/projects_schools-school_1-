@@ -3,56 +3,56 @@ Ver=1
 [DWF6MinorVersion]
 MinorVer=1
 [DWF6Sheet:1]
-DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Layout=Лестницы
 Setup=1
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Has Plot Port=0
 Has3DDWF=0
 [DWF6Sheet:2]
-DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Layout=Лестницы
 Setup=2
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Has Plot Port=0
 Has3DDWF=0
 [DWF6Sheet:3]
-DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+DWG=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Layout=Лестницы
 Setup=3
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\stairs.dwg
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.dwg
 Has Plot Port=0
 Has3DDWF=0
 [Target]
 Type=6
-DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).pdf
+DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\лестницы.pdf
 OUT=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\
 PWD=
 [MRU Local]
 MRU=11
-File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\
-File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.8 фархверки\
-File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.7 внешний блок\
-File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.6 перемычки\
-File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\
-File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.4 Блок 1 эт\
-File6=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Резка, демонтаж, монтаж ЛК 9 10 11\
-File7=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.1 ПГП 1 эт Май\
-File8=C:\Users\Linux\Documents\schools\school_1\walls\PDF\3) Шпаклевка фин подвал\
-File9=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\
-File10=C:\Users\Linux\Documents\schools\school_1\walls\PDF\1) Перегородки Подвал\
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File5=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File6=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File7=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+File9=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\Фасад\
 [MRU Sheet List]
 MRU=10
-File0=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\staircase_stairwy_stairs.dsd
-File1=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.8 фархверки\7.8 фархверки.dsd
-File2=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.7 внешний блок\7.7 внешний блок.dsd
-File3=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.6 перемычки\7.6 перемычки.dsd
-File4=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.5 леса\7.5 леса.dsd
-File5=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.4 Блок 1 эт\7.4 блок 1 эт.dsd
-File6=C:\Users\Linux\Documents\schools\school_2\1) walls\Перегородки\7.1 ПГП 1 эт Май\7.1 ПГП 1 эт Май.dsd
-File7=C:\Users\Linux\Documents\schools\school_lublino\naryadi\6) Лестницы\PDF лестницы\Резка, демонтаж, монтаж ЛК 9 10 11\Резка, демонтаж, монтаж ЛК 9 10 11.dsd
-File8=C:\Users\Linux\Documents\schools\school_1\walls\PDF\3) Шпаклевка фин подвал\СОШ1 шпкл фин.dsd
-File9=C:\Users\Linux\Documents\schools\school_1\walls\PDF\2) Шпаклевка баз подвал\СОШ1 шпкл баз подв.dsd
+File0=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\7.14-7.16 Опуск стен Грильято.dsd
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск стен до потолка.dsd
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\7.2 НЗ потолок грильяо.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\7.17-7.19 ММП опуск стен.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\7.1-7.9) НЗ Пол\7.5 Линолеум.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.3 НЗ потолок альбес\7.3 НЗ потолок альбес.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.1 НЗ Потолок армстронг\7.1 НЗ Потолок армстронг.dsd
 [PdfOptions]
 IncludeHyperlinks=TRUE
 CreateBookmarks=FALSE

@@ -1,0 +1,129 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=6 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=7 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:8]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=8 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:9]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=10.6Штрб
+Setup=9 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\10.6 Заделка штроб.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File6=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File8=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+File10=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\6.3 НЗ окраска потолка с инж коммун.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.3-П8\6.3-П8.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\10.5 Пилоны.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\7.14-7.16 Опуск стен Грильято.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск стен до потолка.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.2 НЗ потолок грильяо\7.2 НЗ потолок грильяо.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

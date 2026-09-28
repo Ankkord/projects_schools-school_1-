@@ -30,13 +30,6 @@ Setup=5 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
 Has Plot Port=0
 Has3DDWF=0
-[DWF6Sheet:5]
-DWG=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
-Layout=9.5Мср
-Setup=6 горизонт
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\floors\school_2_floors.dwg
-Has Plot Port=0
-Has3DDWF=0
 [Target]
 Type=6
 DWF=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.5 Уборка мусора\9.5 Уборка мусора.pdf

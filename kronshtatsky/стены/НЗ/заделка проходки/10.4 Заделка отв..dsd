@@ -1,0 +1,84 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Layout=10.3Прх
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Layout=10.3Прх
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Layout=10.3Прх
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\стены\стены двг.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\10.4 Заделка отв..pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File1=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File2=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File3=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+File5=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\Фасад\
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\7.1-7.9) НЗ Пол\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.1 Шпаклевка стен 5-блок 8 вып\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\8.2 Линолеум 8 вып\
+[MRU Sheet List]
+MRU=7
+File0=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\16 лак стены 1.6м.dsd
+File1=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\2 - лифт шаха поликлиника.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+File3=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\3.4 ГВЛ 5 этаж.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\10.4 НЗ Лобик 1 блок.dsd
+File5=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\3.3 ГВЛ инвесторы.dsd
+File6=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\1.3 Стяжка керамзит 1, 4, 5 эт Инв.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

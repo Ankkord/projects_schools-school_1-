@@ -1,0 +1,108 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.10
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.10
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.11
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.11
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.12
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.12
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск до ч. потолка черный.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File3=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File4=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+File6=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\Фасад\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.3 НЗ вент камеры 5 блок 3 этаж\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\пол\PDF\7.1-7.9) НЗ Пол\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.1 Шпаклевка стен 5-блок 8 вып\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\Опуск стен до потодка.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.9 НЗ окраска опусков стен\7.9 НЗ окраска опусков стен.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\10.5 Пилоны.dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.5 Уборка мусора\9.5 Уборка мусора.dsd
+File5=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\10-Cт краска доп слой\10-Ст-К FK.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\10.4 Заделка отв..dsd
+File7=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\16 лак стены 1.6м.dsd
+File8=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\2 - лифт шаха поликлиника.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

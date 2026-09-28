@@ -1,0 +1,87 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:Потолок-7.19КрсЗел]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.19КрсЗел
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Потолок-7.18ШпЗел]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.18ШпЗел
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:Потолок-7.17ШтЗел]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.17ШтЗел
+Setup=1 вертикаль А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\7.17-7.19 ММП опуск стен.pdf
+OUT=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File5=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File6=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File7=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+File9=C:\Users\Linux\Documents\schools\hospital\пол\PDF\1.3 Стяжка керамзит 1, 4, 5 эт Инв\
+File10=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\Фасад\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\7.14-7.16 Опуск стен Грильято.dsd
+File1=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск стен до потолка.dsd
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.9 НЗ окраска опусков стен\7.9 НЗ окраска опусков стен.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\10.5 Пилоны.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\8.2 Уменьшение дв проемов\8.2 Уменьшение дв проемов.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\9.5 Уборка мусора\9.5 Уборка мусора.dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\10-Cт краска доп слой\10-Ст-К FK.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\10.4 Заделка отв..dsd
+File8=C:\Users\Linux\Documents\schools\school_1\PDF\Сдача\16 лак стены 1.6м\16 лак стены 1.6м.dsd
+File9=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\2 - лифт шаха поликлиника.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

@@ -1,0 +1,101 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Layout=5.1ШлфСт
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Layout=5.1ШлфСт
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Layout=5.1ШлфСт
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Layout=5.1ШлфСт
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Layout=5.1ШлфСт
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\стены\wallsv2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.1 Шлифовка стен\5.1 Шлифовка стен.pdf
+OUT=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.1 Шлифовка стен\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.1 Шлифовка стен\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\
+File2=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.17-7.19 ММП опуск стен\
+File3=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\
+File4=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\НЗ\заделка проходки\
+File7=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File8=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3) Штукатурка стен Инв\
+File9=C:\Users\Linux\Documents\schools\hospital\пол\PDF\2-лифт шахта\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.4 НЗ Лобик 1 блок\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.6 Штробы\10.6 Заделка штроб.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\ceilling\PDF-ceiling\6.3 НЗ окраска потолка с инж коммун\6.3 НЗ окраска потолка с инж коммун.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\6.3-П8\6.3-П8.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.5 Пилоны\10.5 Пилоны.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\floors\PDF\1, 2, 3 Лестницы (НЗ)\1, 2, 3 Лестницы  ремонт пола (НЗ).dsd
+File6=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\8.1-НЗ перегородки\8.1-НЗ перегородки.dsd
+File7=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.14-7.16 Опуск стен Грильято\7.14-7.16 Опуск стен Грильято.dsd
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.10 Опуск ст\7.10-7.13 Опуск стен до потолка.dsd
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.5 НЗ потолок Краск с инж ком\7.5 НЗ потолок Краск с инж ком.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
