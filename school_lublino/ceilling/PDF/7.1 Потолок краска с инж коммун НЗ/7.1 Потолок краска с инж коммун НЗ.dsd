@@ -2,13 +2,6 @@
 Ver=1
 [DWF6MinorVersion]
 MinorVer=1
-[DWF6Sheet:1]
-DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
-Layout=7.1КрсИнж
-Setup=1 вертикаль А4
-OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
-Has Plot Port=0
-Has3DDWF=0
 [DWF6Sheet:2]
 DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
 Layout=7.1КрсИнж

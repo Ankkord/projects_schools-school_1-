@@ -1,0 +1,94 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=5.2Плт
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=5.2Плт
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=5.2Плт
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=5.2Плт
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\5.2 облицовка стен\5.2 облицовка стен.pdf
+OUT=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\5.2 облицовка стен\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\5.2 облицовка стен\
+File1=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\10.5 Диафрагмы 5 блок\
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.4 Установка лючков хаммер\
+File3=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.8- Заливка подоконников\
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\
+File5=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.7 Пилоны Гориз\
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\
+File7=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File8=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.2-5.4 лифт шахты\
+File9=C:\Users\Linux\Documents\schools\school_lublino\naryadi\11) Вент камера, снарядная\
+File10=C:\Users\Linux\Documents\schools\school_lublino\naryadi\10) ВРУ\
+[MRU Sheet List]
+MRU=10
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\11.4-11.5-Шпаклевка, краска спорт залы.dsd
+File1=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\10.3 откосы.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\diafragma блок 4.1.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\10.5 Диафрагмы 5 блок\10.5 Диафрагмы 5 блок.dsd
+File4=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.8- Заливка подоконников\11.8- Заливка подоконников.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.4 Установка лючков хаммер\10.4 Установка лючков хаммер.dsd
+File6=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\11.6-11.7- Шпаклевка, краска, коридоры.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.7 Пилоны Гориз\10.7 Пилоны Гориз.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.2 Потолок краска с инж коммун НЗ.dsd
+File9=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

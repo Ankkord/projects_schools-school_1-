@@ -2,6 +2,13 @@
 Ver=1
 [DWF6MinorVersion]
 MinorVer=1
+[DWF6Sheet:0]
+DWG=C:\Users\Linux\Documents\schools\hospital\потолок\поликлиника потолок.dwg
+Layout=1.1Шлф
+Setup=1 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\hospital\потолок\поликлиника потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
 [DWF6Sheet:1]
 DWG=C:\Users\Linux\Documents\schools\hospital\потолок\поликлиника потолок.dwg
 Layout=1.1Шлф

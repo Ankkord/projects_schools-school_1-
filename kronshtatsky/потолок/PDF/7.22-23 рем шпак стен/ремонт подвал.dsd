@@ -16,6 +16,13 @@ Setup=3 горизонт
 OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:7.24 клининг подвал]
+DWG=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Layout=7.22-23
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\Потолок.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=5
 DWF=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.22-23 рем шпак стен\Потолок.pdf

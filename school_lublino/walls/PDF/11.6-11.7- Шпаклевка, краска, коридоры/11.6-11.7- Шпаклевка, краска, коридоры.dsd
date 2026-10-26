@@ -1,0 +1,104 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=5 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:5]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=6 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:6]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Layout=11.6.11.7ШпФнВостт
+Setup=7 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\walls\walls_lub_part_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\11.6-11.7- Шпаклевка, краска, коридоры.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.7 Пилоны Гориз\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.2-5.4 лифт шахты\
+File5=C:\Users\Linux\Documents\schools\school_lublino\naryadi\11) Вент камера, снарядная\
+File6=C:\Users\Linux\Documents\schools\school_lublino\naryadi\10) ВРУ\
+File7=C:\Users\Linux\Documents\schools\hospital\стены\pdf\4.2 Шпак стен, инв сент подвал, 1 эт\
+File8=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3.5 Штук стен кирп Инв сент\
+File9=C:\Users\Linux\Documents\schools\hospital\стены\pdf\1.6 кирпич 4, 5 эт Сентябрь инв\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.2 Поркаска стены акрил\
+[MRU Sheet List]
+MRU=6
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.7 Пилоны Гориз\10.7 Пилоны Гориз.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\11.4-11.5-Шпаклевка, краска спорт залы.dsd
+File2=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.2 Потолок краска с инж коммун НЗ.dsd
+File3=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.2-5.4 лифт шахты\5.2-5.4 лифт шахты.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\10.3 откосы.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

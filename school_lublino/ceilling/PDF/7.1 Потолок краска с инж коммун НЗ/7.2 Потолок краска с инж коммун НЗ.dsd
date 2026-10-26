@@ -1,0 +1,80 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=7.2КрсИнж
+Setup=2 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=7.2КрсИнж
+Setup=3 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Layout=7.2КрсИнж
+Setup=4 вертикаль
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_lublino\ceilling\potolok_lublino.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.2 Потолок краска с инж коммун НЗ.pdf
+OUT=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\
+File1=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.2-5.4 лифт шахты\
+File2=C:\Users\Linux\Documents\schools\school_lublino\naryadi\11) Вент камера, снарядная\
+File3=C:\Users\Linux\Documents\schools\school_lublino\naryadi\10) ВРУ\
+File4=C:\Users\Linux\Documents\schools\hospital\стены\pdf\4.2 Шпак стен, инв сент подвал, 1 эт\
+File5=C:\Users\Linux\Documents\schools\hospital\стены\pdf\3.5 Штук стен кирп Инв сент\
+File6=C:\Users\Linux\Documents\schools\hospital\стены\pdf\1.6 кирпич 4, 5 эт Сентябрь инв\
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.2 Поркаска стены акрил\
+File8=C:\Users\Linux\Documents\schools\kronshtatsky\стены\PDF\10.9 Ниши ЭОМ СС\
+File9=C:\Users\Linux\Documents\schools\kronshtatsky\потолок\PDF\7.22-23 рем шпак стен\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.1 Покраска стены ст-6, 7\
+[MRU Sheet List]
+MRU=3
+File0=C:\Users\Linux\Documents\schools\school_lublino\ceilling\PDF\7.1 Потолок краска с инж коммун НЗ\7.1 Потолок краска с инж коммун НЗ.dsd
+File1=C:\Users\Linux\Documents\schools\hospital\стены\pdf\5.2-5.4 лифт шахты\5.2-5.4 лифт шахты.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\10.3 откосы.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
