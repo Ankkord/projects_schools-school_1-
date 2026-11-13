@@ -1,0 +1,93 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:1]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.3НЗ
+Setup=2 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:2]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.3НЗ
+Setup=3 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:3]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.3НЗ
+Setup=4 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:4]
+DWG=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Layout=3.3НЗ
+Setup=5 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\ceilling-n.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.3-НЗ окраска инж коммун\3.3-НЗ окраска инж коммун..pdf
+OUT=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.3-НЗ окраска инж коммун\
+PWD=
+[MRU Local]
+MRU=11
+File0=C:\Users\Linux\Documents\schools\school_nagatinsky\ceilling\PDF\3.3-НЗ окраска инж коммун\
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\12.2-6 антигрибовкая обработка 6 схем\
+File2=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.10 Люки\
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\20. Скопом\
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\5.2 облицовка стен\
+File5=C:\Users\Linux\Documents\schools\school_lublino\floors\PDF\10.5 Диафрагмы 5 блок\
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.4 Установка лючков хаммер\
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.8- Заливка подоконников\
+File8=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.6-11.7- Шпаклевка, краска, коридоры\
+File9=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\10.7 Пилоны Гориз\
+File10=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\
+[MRU Sheet List]
+MRU=9
+File0=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\12.2-6 антигрибовкая обработка 6 схем\12.2-6 антигрибовкая обработка 5 схем.dsd
+File1=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.10 Люки\11.10 Люки.dsd
+File2=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\20. Скопом\2 часть плитка стены дем. монт. штук..dsd
+File3=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\20. Скопом\3 часть ниши ЭОМ.dsd
+File4=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\20. Скопом\1 часть.dsd
+File5=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\10.3 откосы\10.3 откосы.dsd
+File6=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\5.2 облицовка стен\5.2 облицовка стен.dsd
+File7=C:\Users\Linux\Documents\schools\school_lublino\walls\PDF\11.4-11.5-Шпаклевка, краска спорт залы\11.4-11.5-Шпаклевка, краска спорт залы.dsd
+File8=C:\Users\Linux\Documents\schools\school_lublino\naryadi\7) Диафрагмы\4-ДФ диафрагмы, заливка\diafragma блок 4.1.dsd
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=TRUE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Профиль без имени>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=FALSE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1

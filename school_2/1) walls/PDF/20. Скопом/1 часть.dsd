@@ -30,6 +30,125 @@ Setup=4 в А4
 OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
 Has Plot Port=0
 Has3DDWF=0
+[DWF6Sheet:6 1089 Монтаж ПТ-5.1]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=5 верт А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:7 КР-1 Пол и плинтус]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=6 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:8 НЗ 1019 Плитка стена СТ-6.3]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=7 верт А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:9 Дм монт потолка подвал Пом. 0.002]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=8 горизонт
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:10 лифт шахта обесп]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=9 верт А4
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:11 лифт шахта гидроизол]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=11
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:12 стены после штроб шпакл и окраска]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=12
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:13 Потолок ПТБ-3 36 шт]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=13
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:14 Ремонт потолка]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=14
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:15 Шпаклевка потолка]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=15
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:16 Подоконники 1 этаж]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=16
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:17 Потолок ПТ-7 2.007]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=17
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:19 Зашивка отопления 1.017]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=19
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:20 Подоконники 2 этаж]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=20
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:21 Наливной пол Фор камеры]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=21
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:22 Откосы Фор камеры]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=22
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:23 Плитка остаток, не понятен тип]
+DWG=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Layout=20Скопм
+Setup=23
+OriginalSheetPath=C:\Users\Linux\Documents\schools\school_2\1) walls\school_2_walls_part2.dwg
+Has Plot Port=0
+Has3DDWF=0
 [Target]
 Type=5
 DWF=C:\Users\Linux\Documents\schools\school_2\1) walls\PDF\20. Скопом\school_2_walls_part2.pdf
